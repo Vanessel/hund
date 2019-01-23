@@ -31,6 +31,9 @@ h1 {
 	
 	transform: rotate(30deg);
 }
+.imgcont{
+	width: 80%;
+}
 
 #title {
   background-color: #ff4c68;
