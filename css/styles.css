@@ -5,14 +5,15 @@ body {
 h1{	
 	font-family: 'Montserrat-Black', sans-serif;
 	font-size: 3rem;
-	line-height: 1.5
+	line-height: 1.5;
+	color: white;	
 }
 
 .navbar-brand {
   font-family: 'Ubuntu', sans-serif;
 }
 
-.container-fuid{
+.container-fluid{
 	padding: 3% 15%;
 	
 }
