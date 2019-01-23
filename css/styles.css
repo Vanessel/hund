@@ -2,21 +2,30 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-h1{	
-	font-family: 'Montserrat-Black', sans-serif;
-	font-size: 3rem;
-	line-height: 1.5;
-	color: white;	
+h1 {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
 }
 
 .navbar-brand {
-	font-size: 2rem;
+  font-size: 2rem;
   font-family: 'Ubuntu', sans-serif;
 }
 
-.container-fluid{
-	padding: 3% 15%;
+.container-fluid {
+  padding: 3% 15%;
+  margin-top: 10%;
+}
+
+.rotate {
+  -moz-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
 	
+	transform: rotate(30deg);
 }
 
 #title {
