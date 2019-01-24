@@ -9,6 +9,9 @@ h1 {
   color: white;
 	font-weight: 800;
 }
+img{
+	width:100%;
+}
 
 .navbar-brand {
   font-size: 2rem;
@@ -33,7 +36,8 @@ h1 {
 	transform: rotate(30deg);
 }
 .imgcont{
-	width: 80%;
+	width: 45%;
+	margin-left: 2rem;
 }
 
 #title {
