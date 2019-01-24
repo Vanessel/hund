@@ -12,6 +12,9 @@ h1 {
 img {
   width: 100%;
 }
+.navbar{
+	padding: 0 0 4.5rem;
+}
 
 .navbar-brand {
   font-size: 2rem;
@@ -22,6 +25,10 @@ img {
 }
 .nav-link{
 	
+}
+
+.download-button{
+	margin: 5% 3% 5% 0;
 }
 
 .container-fluid {
