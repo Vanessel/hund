@@ -45,6 +45,7 @@ img {
   -o-transform: rotate(30deg);
   -webkit-transform: rotate(30deg);
   transform: rotate(30deg);
+	width: 60%;
 }
 
 #title {
