@@ -54,22 +54,18 @@ img {
 }
 
 /*icons*/
-.icon :hover{
-color: #ff4c68
 
-}
 .feature-box{
-	text-align: center;
-	
+	text-align: center;	
 }
-.feature-box h3 {
+.feature-box > h3 {
 	font-family: Montserrat-bold;
 	font-size: 1.5rem;
 }
-.feature-box p{
+.feature-box > p{
 color: #818181
 }
-.feature-box i{
-	
+.icon :hover{
+color: #ff4c68
 }
 
