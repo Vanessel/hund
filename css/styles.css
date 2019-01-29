@@ -99,8 +99,11 @@ font-weight: bold;
 }
 
 /*card*/
-.pricing-card{
+#pricing{
 	text-align: center;
+}
+.pricing-card{
+	
 }
 
 #press{
