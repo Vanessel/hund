@@ -47,7 +47,7 @@ img {
   -webkit-transform: rotate(30deg);
   transform: rotate(30deg);
   width: 60%;
-	z-index: -1;
+	position: absolute;
 }
 
 #title {
@@ -56,9 +56,10 @@ img {
 }
 
 /*FEATURE*/
-.whitesection{
-	width: 100%;
-	z-index: 1;
+#feature{
+	background-color: white;
+	position: relative;
+	z-index: 1; 
 }
 .feature-box {
   text-align: center;
