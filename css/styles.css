@@ -47,6 +47,9 @@ img {
   -webkit-transform: rotate(30deg);
   transform: rotate(30deg);
   width: 60%;
+	
+}
+.title-img{
 	position: absolute;
 }
 
