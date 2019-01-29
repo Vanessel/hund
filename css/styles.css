@@ -121,6 +121,7 @@ font-weight: bold;
 }
 
 #cta{
+	padding: 50px 0;
 	text-align: center;
 	background-color: #ff4c68;
 	font-family: 'Montserrat-Black', sans-serif;
@@ -133,7 +134,13 @@ font-weight: bold;
 #footer{
 	text-align: center;
 	background-color: white;
+	padding: 3% 0 7%;
 }
+
 .grey{
   color: #818181;
+}
+
+.footer-icon{
+	padding:5px;
 }
