@@ -119,3 +119,16 @@ font-weight: bold;
 	width: 15%;
 	margin: 20px 20px 50px;
 }
+
+#cta{
+	text-align: center;
+	background-color: #ff4c68;
+	font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 800;
+}
+
+#footer{
+	background-color: white;
+}
