@@ -31,40 +31,33 @@ img {
 .download-button {
   margin: 5% 3% 5% 0;
 }
-
-.container-fluid {
-  padding: 3% 15%;
-}
-
-.title {
-  margin-top: 50px;
-}
-
-.rotate {
-  -moz-transform: rotate(30deg);
-  -ms-transform: rotate(30deg);
-  -o-transform: rotate(30deg);
-  -webkit-transform: rotate(30deg);
-  transform: rotate(30deg);
-  width: 60%;
-	
-}
-.title-img{
-	position: absolute;
-}
+/* Title Section */
 
 #title {
   background-color: #ff4c68;
-  color: white;
+  color: #fff;
+  text-align: left;
 }
 
-/*FEATURE*/
-#features{
-
-	background-color: white;
-	position: relative;
-	z-index: 1; 
+#title .container-fluid {
+  padding: 3% 15% 7%;
 }
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
 .feature-box {
   text-align: center;
 	margin: 50px 0;
